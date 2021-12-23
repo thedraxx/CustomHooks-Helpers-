@@ -25,9 +25,7 @@ Cualquier sugerencia de arquitectura de código,pregunta o problema enviar mail 
 
 ## ⚙️ Uso
 
-1. Abrir la web
-2. leer la documentacion que se ofrece alli.
-3. En cualquier caso de querer saber mas sobre mi, hacer click en cualquiera de los enlaces presentados en el portafolio
+1. Implementarlo de acuerdo a su necesidad.
 
 ## 🤝 Contribuciones y Agradecimientos
 
